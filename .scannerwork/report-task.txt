@@ -1,0 +1,7 @@
+organization=jjrmanzano-space-game-web
+projectKey=jjrmanzano_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5447
+dashboardUrl=https://sonarcloud.io/dashboard?id=jjrmanzano_mslearn-tailspin-spacegame-web
+ceTaskId=AXCqwcZFn3aqzBmvO7QM
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXCqwcZFn3aqzBmvO7QM
